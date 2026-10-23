@@ -1,7 +1,5 @@
 # Song Maker — site marketing
 
-[Voir le site officiel](https://www.song-maker.app/fr) · [Écouter et mixer un exemple audio](https://www.song-maker.app/fr#mixer)
-
 Package Next.js (App Router) bilingue **FR / EN** pour présenter Song Maker : landing animée, frames UI reconstruites, exemples audio, documentation MDX.
 
 ## Lancer en local
