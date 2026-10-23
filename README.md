@@ -1,9 +1,5 @@
 # Song Maker
 
-[Voir l’interface sur le site officiel](https://www.song-maker.app/fr) · [Écouter et mixer un exemple audio](https://www.song-maker.app/fr#mixer)
-
-L’aperçu présente l’interface et des extraits audio. Pour générer de la musique, installe l’application desktop depuis les [Releases officielles](https://github.com/azerothl/song-maker/releases/latest).
-
 Application **desktop locale** (Tauri 2) pour générer, séparer, éditer et mixer un morceau avec **YuE2** via [audio.cpp](https://github.com/0xShug0/audio.cpp) (GGUF) et HTDemucs. Un projet = un morceau. Contrat produit : [`specs/SONG_MAKER_SPEC.md`](specs/SONG_MAKER_SPEC.md) (le spec décrit aussi l’historique des phases ; ce README décrit **ce qui est livré aujourd’hui** sur `main`). Licence du code : [Apache-2.0](LICENSE) — voir aussi [`NOTICE`](NOTICE).
 
 Site marketing bilingue FR/EN : dossier [`website/`](website/) — landing, docs MDX, téléchargements. L’app desktop est **FR/EN** (Paramètres → Système).
